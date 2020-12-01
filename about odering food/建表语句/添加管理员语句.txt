@@ -1,1 +1,0 @@
-insert into t_user(id, username, password, type, isdelete) values('5197e41cc2b143bfa695ea0d287070c7', 'admin', '21232f297a57a5a743894a0e4a801fc3', 0, 0);
