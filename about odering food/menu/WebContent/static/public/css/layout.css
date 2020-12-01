@@ -1,0 +1,50 @@
+    body,html {
+        width: 100%;
+        height: 100%;
+        background: url("../../img/cp_bg.png") no-repeat left center;
+        background-size: 100% 100%;
+    }
+    h1 {
+        margin-top: 0!important;
+    }
+    .box {
+        width: 100%;
+        height: 100%;
+        overflow: auto;
+    }
+    .sit_nav {
+        height: 110px;
+        background: rgba(255, 255, 255, 0.5);
+    }
+    .sit_nav h1 {
+        height: 100%;
+        line-height: 110px;
+        color: #ADBE38;
+        text-indent: 65px;
+        background: url("../../img/cp_logo.png") no-repeat left center;
+        letter-spacing: 5px;
+        font-size: 36px;
+        margin-left: 180px;
+    }
+    .sit_msg {
+        margin-right: 200px;
+        margin-top: 40px;
+    }
+    .sit_msg li {
+        float: left;
+        color: #000;
+    }
+    .sit_msg li span {
+        font-weight: 600;
+    }
+    .sit_msg li a {
+        color: red;
+        margin-left: 25px;
+        cursor: pointer;
+    }
+    .content_box {
+        width: 1200px;
+        margin: 50px auto 50px;
+        border-radius: 8px;
+        background: rgba(255, 255, 255, 0.5);
+    }

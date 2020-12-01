@@ -1,0 +1,82 @@
+
+    body,html {
+        background: url("../img/m_bg.jpg") no-repeat left center;
+        background-size: 100% 100%;
+    }
+    .main_box {
+        padding: 0 24px 40px;
+    }
+    .main_box>li {
+        float: left;
+        width: 177px;
+        height: 224px;
+        background: #FFF;
+        border-radius: 5px;
+        margin: 40px 26px 0;
+        text-align: center;
+    }
+    .main_box li img {
+        width: 160px;
+        height: 106px;
+        margin: 8px auto 0;
+    }
+    .main_box li h5 {
+        color: #333333;
+        text-align: left;
+        padding: 0 8px;
+    }
+    .main_box .tags {
+        padding: 0 8px;
+    }
+    .main_box .tags li {
+        border-radius: 4px;
+        background: #ECECEC;
+        margin-right: 5px;
+        float: left;
+        padding: 3px 8px;
+    }
+    .tags {
+        margin-top: 8px;
+    }
+    .parse {
+        padding: 0 8px;
+        margin-top: 8px;
+    }
+    .parse li {
+        width: 50%;
+        float: left;
+    }
+    .parse_nmb {
+        color: red;
+        text-align: left;
+        font-size: 16px;
+    }
+    .parse_check {
+        text-align: right;
+
+    }
+    .parse li input {
+        width: 18px;
+        height: 18px;
+        vertical-align: middle;
+    }
+    .get_msg {
+        margin: 50px auto 0;
+        padding: 0 15px;
+    }
+    .get_box {
+        width: 335px;
+        height: 42px;
+        border-radius: 42px;
+        background: #F5C353;
+        color: #000;
+        line-height: 42px;
+        text-align: center;
+    }
+    .get_box span {
+        color: red;
+    }
+    .content_box {
+        padding-bottom: 20px;
+    }
+
